@@ -1,0 +1,26 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev":"nodemon ./src/app.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watchping/Hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watchping/Hello/issues"
+  },
+  "homepage": "https://github.com/watchping/Hello#readme"
+}
